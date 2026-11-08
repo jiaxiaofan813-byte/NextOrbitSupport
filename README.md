@@ -5,7 +5,7 @@ Official website files for Next Orbit, an offline orbit-hopping game for iPhone 
 - Website: https://jiaxiaofan813-byte.github.io/NextOrbitSupport/
 - Privacy: [English](privacy-en.html) · [简体中文](privacy.html)
 - Support: [English](support-en.html) · [简体中文](support.html)
-- Developer: Xiaofan Jia
+- Developer: [Xiaofan Jia](https://jiaxiaofan.net/)
 - Support and privacy contact: jiaxiaofan813@gmail.com
 
 This repository contains only the public static website and its approved assets. The game source and development history are kept separately.
